@@ -13,7 +13,7 @@ function Home() {
 </div>
 
 
-      <div class="card" style={{width: "18rem", marginLeft: "50vh", marginTop: '-70vh'}}>
+      <div class="card" style={{width: "18rem", marginLeft: "50vh", marginTop: '-79vh'}}>
   <img src="13.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
    
@@ -24,7 +24,7 @@ function Home() {
 </div>
 
 
-      <div class="card" style={{width: "21rem", marginLeft: "94vh", marginTop: '-70vh'}}>
+      <div class="card" style={{width: "21rem", marginLeft: "74vh", marginTop: '-96vh'}}>
   <img src="xr.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
    
@@ -35,7 +35,7 @@ function Home() {
 </div>
 
 
-      <div class="card" style={{width: "21rem", marginLeft: "146vh", marginTop: '-69vh'}}>
+      <div class="card" style={{width: "21rem", marginLeft: "150vh", marginTop: '-79vh'}}>
   <img src="zflik.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
    
